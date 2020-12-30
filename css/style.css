@@ -16,3 +16,12 @@ hr{
     border-width: 6px;
     width: 10%;
 }
+
+#profile-pic{
+    background-color: gold;
+    border-radius: 100%;
+}
+
+#spotify-title{
+    color: blueviolet;
+}
